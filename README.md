@@ -45,24 +45,22 @@ Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** par
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📚 Alocatus](https://github.com/seuusuario/alocatus) | Plataforma de atribuição de aulas para ETECs | Django, Tailwind |
-| [🌐 OneAlf](https://github.com/seuusuario/momo) | Rede social e blog para o undo tech | Django, Tailwind, PostgreSQL |
+| [📚 Alocatus](https://github.com/seuusuario/alocatus) | Plataforma de atribuição de aulas para ETECs | HTML, CSS, JS, Python, Django, Bootstrap/Tailwind |
+| [🌐 OneAlf](https://github.com/seuusuario/momo) | Rede social e blog para o mundo tech | HTML, CSS, Python, Django, Tailwind, |
 
 ---
 
 ### 🌱 Atualmente estudando
 - 🐳 Docker e GitHub Actions (CI/CD)
-- ☁️ Cloud & DevOps (Imersão Alura)
-- 🔧 Integração Django + Tailwind + Alpine.js
-- 📱 Flutter avançado
+- ☁️ Cloud & DevOps
+- 📱 Flutter 
 
 ---
 
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-📧 Email: andreluiz@email.com  
-🌐 Portfólio: [seusite.com](https://seusite.com)
+📧 Email: alfonsecafilho@gmail.com  
 
 ---
 
