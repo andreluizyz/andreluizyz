@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Banner animado opcional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8BC0&height=200&section=header&text=André%20Luiz%20🚀&fontSize=40&fontColor=FFFFFF" />
+</p>
 
-<!--
-**andreluizyz/andreluizyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Criador+do+Alocatus;Co-fundador+da+RA%C2%B2;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** para transformar o setor educacional e negócios através da tecnologia. Cofundador da **RA²**, startup que nasceu com o propósito de resolver problemas reais com software **personalizado e de impacto**.
+
+> “Na RA², acreditamos que o software perfeito é aquele que se adapta ao seu negócio — e não o contrário.”
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [📚 Alocatus](https://github.com/seuusuario/alocatus) | Plataforma de atribuição de aulas para ETECs | Django, Tailwind |
+| [💧 RA² App Água](https://github.com/seuusuario/ra2-agua) | Aplicativo mobile para gestão de água | Flutter, Firebase |
+| [🌐 MoMO](https://github.com/seuusuario/momo) | Rede social para devs e gamers | Django, Tailwind, PostgreSQL |
+
+---
+
+### 🌱 Atualmente estudando
+- 🐳 Docker e GitHub Actions (CI/CD)
+- ☁️ Cloud & DevOps (Imersão Alura)
+- 🔧 Integração Django + Tailwind + Alpine.js
+- 📱 Flutter avançado
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
+📧 Email: andreluiz@email.com  
+🌐 Portfólio: [seusite.com](https://seusite.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusuario&theme=github_dark" />
+</p>
