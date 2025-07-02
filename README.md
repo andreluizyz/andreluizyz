@@ -65,7 +65,7 @@ Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** par
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreluizyz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluizyz&theme=tokyonight" />
+   <img src="https://github-readme-streak-stats.demolab.com/?user=andreluizyz&theme=tokyonight" />
 </p>
 
 <p align="center">
