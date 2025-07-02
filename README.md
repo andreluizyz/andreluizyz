@@ -63,12 +63,11 @@ Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** par
 📧 Email: alfonsecafilho@gmail.com  
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andreluizyz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluizyz&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusuario&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreluizyz&theme=github_dark" />
 </p>
