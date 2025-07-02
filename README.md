@@ -1,4 +1,4 @@
-<!-- Banner animado opcional -->
+<!-- Banner animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8BC0&height=200&section=header&text=André%20Luiz%20🚀&fontSize=40&fontColor=FFFFFF" />
 </p>
@@ -11,7 +11,9 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** para negócios através da tecnologia. Cofundador da **RA²**, startup que nasceu com o propósito de resolver problemas reais com software **personalizado e de impacto**.
+<p align="justify">
+Sou o <strong>André Luiz</strong>, desenvolvedor focado em criar <strong>soluções inteligentes</strong> para negócios através da tecnologia. Cofundador da <strong>RA²</strong>, startup que nasceu com o propósito de resolver problemas reais com software <strong>personalizado e de impacto</strong>.
+</p>
 
 > “Na RA², acreditamos que o software perfeito é aquele que se adapta ao seu negócio — e não o contrário.”
 
@@ -45,27 +47,40 @@ Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** par
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📚 Alocatus](https://github.com/seuusuario/alocatus) | Plataforma de atribuição de aulas para ETECs | HTML, CSS, JS, Python, Django, Bootstrap/Tailwind |
-| [🌐 OneAlf](https://github.com/seuusuario/momo) | Rede social e blog para o mundo tech | HTML, CSS, Python, Django, Tailwind, |
+| [📚 Alocatus](https://github.com/andreluizyz/alocatus) | Plataforma moderna de atribuição de aulas para ETECs do CPS | HTML, CSS, JS, Python, Django, Bootstrap, Tailwind |
+| [🌐 OneAlf](https://github.com/andreluizyz/momo) | Rede social e blog para o mundo tech com visual escuro e moderno | HTML, CSS, Python, Django, Tailwind |
 
 ---
 
 ### 🌱 Atualmente estudando
+
 - 🐳 Docker e GitHub Actions (CI/CD)
 - ☁️ Cloud & DevOps
-- 📱 Flutter 
+- 📱 Flutter & Dart (apps mobile)
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-📧 Email: alfonsecafilho@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-fonseca-filho-a1bbb5283/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
+  📧 Email: alfonsecafilho@gmail.com
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreluizyz&show_icons=true&theme=tokyonight" />
-   <img src="https://github-readme-streak-stats.demolab.com/?user=andreluizyz&theme=tokyonight" />
+</p>
+
+<!-- Apenas aparece se tiver streak ativo -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=andreluizyz&theme=tokyonight" />
 </p>
 
 <p align="center">
