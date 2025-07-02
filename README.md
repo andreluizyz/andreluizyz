@@ -46,8 +46,7 @@ Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** par
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📚 Alocatus](https://github.com/seuusuario/alocatus) | Plataforma de atribuição de aulas para ETECs | Django, Tailwind |
-| [💧 RA² App Água](https://github.com/seuusuario/ra2-agua) | Aplicativo mobile para gestão de água | Flutter, Firebase |
-| [🌐 MoMO](https://github.com/seuusuario/momo) | Rede social para devs e gamers | Django, Tailwind, PostgreSQL |
+| [🌐 OneAlf](https://github.com/seuusuario/momo) | Rede social e blog para o undo tech | Django, Tailwind, PostgreSQL |
 
 ---
 
