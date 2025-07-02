@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Co-fundador+do+Alocatus;Co-fundador+da+RA%C2%B2;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Desenvolvedor+do+Alocatus;Co-fundador+da+RA%C2%B2;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </p>
 
 ---
