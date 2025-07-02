@@ -31,10 +31,6 @@ Sou o André Luiz, desenvolvedor focado em criar **soluções inteligentes** par
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 📱 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
-
 #### 🗃️ Banco de dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
