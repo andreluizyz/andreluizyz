@@ -54,9 +54,9 @@ Sou o <strong>André Luiz</strong>, desenvolvedor focado em criar <strong>soluç
 
 ### 🌱 Atualmente estudando
 
-- 🐳 Docker e GitHub Actions (CI/CD)
-- ☁️ Cloud & DevOps
-- 📱 Flutter & Dart (apps mobile)
+- 🐳 Docker
+- ⚛️ React
+- 📜 JavaScript
 
 ---
 
