@@ -12,7 +12,9 @@
 ### 👨‍💻 Sobre mim
 
 <p align="justify">
-Sou o <strong>André Luiz</strong>, desenvolvedor focado em criar <strong>soluções inteligentes</strong> para negócios através da tecnologia. Cofundador da <strong>RA²</strong>, startup que nasceu com o propósito de resolver problemas reais com software <strong>personalizado e de impacto</strong>.
+Sou o <strong>André Luiz</strong>, desenvolvedor <strong>autodidata</strong>, movido pela curiosidade e pela vontade constante de evoluir. Estou sempre buscando me <strong>atualizar</strong>, aprender novas tecnologias e aprofundar meus conhecimentos para criar <strong>soluções inteligentes e eficientes</strong> para problemas reais.
+<br><br>
+Sou cofundador da <strong>RA²</strong>, startup que nasceu com o propósito de desenvolver software <strong>personalizado, estratégico e de impacto</strong>, sempre adaptado à realidade de cada negócio — e não o contrário.
 </p>
 
 > “Na RA², acreditamos que o software perfeito é aquele que se adapta ao seu negócio — e não o contrário.”
