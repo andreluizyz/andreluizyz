@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=André%20Luiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Co-founder%20RA²&descAlignY=58&descSize=18" />
@@ -113,4 +113,4 @@ A modern social platform and blog focused on technology and developer communitie
 <p align="center">
   <i>"Building technology that solves real problems."</i>
 </p>
-```
+
