@@ -1,90 +1,116 @@
-<!-- Banner animado -->
+```md
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8BC0&height=200&section=header&text=André%20Luiz%20🚀&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=André%20Luiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Co-founder%20RA²&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Desenvolvedor+do+Alocatus;Co-fundador+da+RA%C2%B2;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+Solutions;Django+%2B+FastAPI+%2B+React;Co-founder+of+RA%C2%B2;Creator+of+Alocatus" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-<p align="justify">
-Sou o <strong>André Luiz</strong>, desenvolvedor <strong>autodidata</strong>, movido pela curiosidade e pela vontade constante de evoluir. Estou sempre buscando me <strong>atualizar</strong>, aprender novas tecnologias e aprofundar meus conhecimentos para criar <strong>soluções inteligentes e eficientes</strong> para problemas reais.
-<br><br>
-Sou cofundador da <strong>RA²</strong>, startup que nasceu com o propósito de desenvolver software <strong>personalizado, estratégico e de impacto</strong>, sempre adaptado à realidade de cada negócio — e não o contrário.
+Hi! I'm **André Luiz**, a Brazilian full stack developer passionate about technology, software architecture and artificial intelligence.
+
+I’m currently focused on building scalable applications using modern back-end technologies, APIs and AI integrations.
+
+Besides programming, I’m also co-founder of **RA²**, a startup focused on creating custom software solutions tailored to real business needs.
+
+---
+
+# 🚀 Main Projects
+
+## 📚 Alocatus
+Modern academic scheduling and class allocation platform designed for ETECs/CPS.
+
+### Main Features
+- Intelligent class allocation
+- Teacher ranking system
+- Schedule conflict validation
+- Real-time business rules
+- Frequency and workload calculations
+
+### Stack
+`Django` • `Python` • `JavaScript` • `TailwindCSS` • `Bootstrap` • `PostgreSQL`
+
+---
+
+## 🌐 OneAlf
+A modern social platform and blog focused on technology and developer communities.
+
+### Stack
+`Django` • `TailwindCSS` • `PostgreSQL`
+
+---
+
+# 🛠️ Tech Stack
+
+## Back-end
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
+
+## Front-end
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
+
+## Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+
+## DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+
+---
+
+# 🧠 Current Focus
+
+- Artificial Intelligence & LLMs
+- FastAPI architecture
+- React ecosystem
+- DevOps & Docker
+- Software architecture
+- Scalable back-end systems
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluizyz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluizyz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-> “Na RA², acreditamos que o software perfeito é aquele que se adapta ao seu negócio — e não o contrário.”
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreluizyz&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-#### 📦 Back-end
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-
-#### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🗃️ Banco de dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-#### 🔧 DevOps & Versionamento
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [📚 Alocatus](https://github.com/andreluizyz/alocatus) | Plataforma moderna de atribuição de aulas para ETECs do CPS | HTML, CSS, JS, Python, Django, Bootstrap, Tailwind |
-| [🌐 OneAlf](https://github.com/andreluizyz/momo) | Rede social e blog para o mundo tech com visual escuro e moderno | HTML, CSS, Python, Django, Tailwind |
-
----
-
-### 🌱 Atualmente estudando
-
-- 🐳 Docker
-- ⚛️ React
-- 📜 JavaScript
-
----
-
-### 📫 Contato
+# 🌎 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-fonseca-filho-a1bbb5283/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br>
-  📧 Email: alfonsecafilho@gmail.com
+
+  <a href="mailto:alfonsecafilho@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreluizyz&show_icons=true&theme=tokyonight" />
+  <i>"Building technology that solves real problems."</i>
 </p>
-
-<!-- Apenas aparece se tiver streak ativo -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=andreluizyz&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreluizyz&theme=github_dark" />
-</p>
+```
