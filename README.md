@@ -45,6 +45,24 @@ A modern social platform and blog focused on technology and developer communitie
 
 ---
 
+## 🤖 Kainex IA
+Enterprise AI platform for companies, built with isolated workspaces, collaborator access, knowledge uploads, and chat powered by a local LLM.
+
+### Main Features
+- Company and collaborator authentication
+- Role-based access control
+- Session management
+- Knowledge upload and chunking
+- Local AI chat with Ollama
+- PT-BR / English interface switch
+- Light / dark theme switch
+- Chat loading states for a smoother UX
+
+### Stack
+`FastAPI` • `SQLAlchemy` • `Alembic` • `React` • `Vite` • `SQLite` • `Ollama`
+
+---
+
 # 🛠️ Tech Stack
 
 ## Back-end
