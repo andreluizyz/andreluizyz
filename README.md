@@ -23,7 +23,7 @@ Besides programming, I’m also co-founder of **RA²**, a startup focused on cre
 # 🚀 Main Projects
 
 ## 📚 Alocatus
-Modern academic scheduling and class allocation platform designed for ETECs/CPS.
+Modern academic scheduling and class allocation platform designed for ETECs/FATECs/CPS.
 
 ### Main Features
 - Intelligent class allocation
